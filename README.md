@@ -15,3 +15,6 @@ Once the best model is selected it is evaluated on X_test and y_test.
 Confusion matrix is used with seaborn visualization to understand the errors of each class.
 
 In the end pkl model is produced.
+
+HOW TO USE
+Run server.py in the server folder, Then run app.html in the UI folder.
